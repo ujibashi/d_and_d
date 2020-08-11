@@ -11,25 +11,25 @@
       <data name="基本">
         <data name="種族">ハイ・エルフ</data>
         <data name="クラス">ウィザード</data>
-        <data name="レベル">3</data>
+        <data name="レベル">4</data>
         <data name="習熟ボーナス">2</data>
         <data name="属性">カオティックグッド</data>
         <data name="背景">侍祭（じさい）</data>
         <data name="プレイヤー">宇治橋</data>
       </data>
       <data name="能力値">
-        <data name="【筋力】">10</data>
-        <data name="【敏捷力】">15</data>
-        <data name="【耐久力】">14</data>
-        <data name="【知力】">16</data>
-        <data name="【判断力】">12</data>
-        <data name="【魅力】">8</data>
+        <data name="○【筋力】">10(0)</data>
+        <data name="○【敏捷力】">15(+2)</data>
+        <data name="○【耐久力】">14(+2)</data>
+        <data name="●【知力】">18(+4)(</data>
+        <data name="●【判断力】">12(+1)</data>
+        <data name="○【魅力】">8(-1)</data>
       </data>
       <data name="セーヴィング・スロー">
         <data name="【筋】セーヴ">0</data>
         <data name="【敏】セーヴ">+2</data>
         <data name="【耐】セーヴ">+2</data>
-        <data name="【知】セーヴ">+5</data>
+        <data name="【知】セーヴ">+6</data>
         <data name="【判】セーヴ">+3</data>
         <data name="【魅】セーヴ">-1</data>
       </data>
@@ -38,24 +38,24 @@
         <data name="フェイの血筋" type="note">魔法は君を眠らせることはできない</data>
       </data>
       <data name="技能">
-        <data name="〈威圧〉【魅力】">-1</data>
-        <data name="〈医術〉【判断力】">+1</data>
-        <data name="〈運動〉【筋力】">0</data>
-        <data name="〈隠密〉【敏捷力】">+2</data>
-        <data name="〈軽業〉【敏捷力】">+2</data>
-        <data name="〈看破〉【判断力】">+3</data>
-        <data name="〈芸能〉【魅力】">-1</data>
-        <data name="〈自然〉【知力】">+3</data>
-        <data name="〈宗教〉【知力】">+5</data>
-        <data name="〈生存〉【判断力】">+1</data>
-        <data name="〈説得〉【魅力】">-1</data>
-        <data name="〈捜査〉【知力】">+3</data>
-        <data name="〈知覚〉【判断力】">+3</data>
-        <data name="〈手先の早業〉【敏捷力】">_2</data>
-        <data name="〈動物使い〉【判断力】">+1</data>
-        <data name="〈ペテン〉【魅力】">-1</data>
-        <data name="〈魔法学〉【知力】">+5</data>
-        <data name="〈歴史〉【知力】★">+3</data>
+        <data name="○〈威圧〉【魅力】">-1</data>
+        <data name="○〈医術〉【判断力】">+1</data>
+        <data name="○〈運動〉【筋力】">0</data>
+        <data name="○〈隠密〉【敏捷力】">+2</data>
+        <data name="○〈軽業〉【敏捷力】">+2</data>
+        <data name="●〈看破〉【判断力】">+3</data>
+        <data name="○〈芸能〉【魅力】">-1</data>
+        <data name="○〈自然〉【知力】">+4</data>
+        <data name="●〈宗教〉【知力】">+6</data>
+        <data name="○〈生存〉【判断力】">+1</data>
+        <data name="○〈説得〉【魅力】">-1</data>
+        <data name="●〈捜査〉【知力】">+4</data>
+        <data name="●〈知覚〉【判断力】">+3</data>
+        <data name="○〈手先の早業〉【敏捷力】">_2</data>
+        <data name="○〈動物使い〉【判断力】">+1</data>
+        <data name="○〈ペテン〉【魅力】">-1</data>
+        <data name="●〈魔法学〉【知力】">+6</data>
+        <data name="○〈歴史〉【知力】★">+4</data>
       </data>
       <data name="行動">
         <data name="イニシアチブ">+2</data>
@@ -150,10 +150,10 @@
         <data name="信仰あつき者の保護" type="note">オグマの侍祭である君は自身と信仰を同じくする人々からの尊敬を集めており、オグマのための宗教的儀式を執り行うことができる。君と君の冒険仲間は、オグマの”寺院、社、その他の施設”において、無料で治療や世話を受けられるが、呪文に必要な物質要素はすべて君が提供しなければならない。君と信仰を共有する人物はみな、君を助けて生活レベル”質素”相当の生活をさせてくれる（ただし、君だけだ。君の仲間は含まない）。また君はネヴァーウィンターにあるオグマの寺院と結びつきを持っており、そこに自分の部屋を持っている。ネヴァーウィンターにいるなら君は、そこの司祭たちを呼び出して何か危険を伴わない手伝いをさせることができる。）</data>
       </data>
       <data name="呪文">
-        <data name="呪文能力">
+        <data name="呪文発動能力値">
           <data name="呪文発動能力値">16</data>
-          <data name="呪文セーブ難易度">13</data>
-          <data name="呪文攻撃ボーナス">5</data>
+          <data name="呪文セーブ難易度">14</data>
+          <data name="呪文攻撃ボーナス">6</data>
         </data>
         <data name="初級呪文">
           <data name="スロット">無制限</data>
