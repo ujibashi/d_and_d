@@ -36,7 +36,6 @@
       <data name="抵抗／脆弱性／耐性">
         <data name="フェイの血筋" type="note">魅了状態をもたらす効果に対するセービングスロー値に有利を得る</data>
         <data name="フェイの血筋" type="note">魔法は君を眠らせることはできない</data>
-        <data name="タグ"></data>
       </data>
       <data name="技能">
         <data name="〈威圧〉【魅力】">-1</data>
@@ -149,6 +148,38 @@
         <data name="フェイの血筋" type="note">魅了状態をもたらす効果に対するセービングスローに有利を得る。また、魔法は君を眠らせることはできない</data>
         <data name="トランス" type="note">エルフは睡眠を必要としない。かわりに深い瞑想に入り、半ば意識を保ったまま、１日４時間を過ごす。これにより君はヒューマンが８時間の睡眠によって得るのと同じ利益をえる。</data>
         <data name="信仰あつき者の保護" type="note">オグマの侍祭である君は自身と信仰を同じくする人々からの尊敬を集めており、オグマのための宗教的儀式を執り行うことができる。君と君の冒険仲間は、オグマの”寺院、社、その他の施設”において、無料で治療や世話を受けられるが、呪文に必要な物質要素はすべて君が提供しなければならない。君と信仰を共有する人物はみな、君を助けて生活レベル”質素”相当の生活をさせてくれる（ただし、君だけだ。君の仲間は含まない）。また君はネヴァーウィンターにあるオグマの寺院と結びつきを持っており、そこに自分の部屋を持っている。ネヴァーウィンターにいるなら君は、そこの司祭たちを呼び出して何か危険を伴わない手伝いをさせることができる。）</data>
+      </data>
+      <data name="呪文">
+        <data name="呪文能力">
+          <data name="呪文発動能力値">16</data>
+          <data name="呪文セーブ難易度">13</data>
+          <data name="呪文攻撃ボーナス">5</data>
+        </data>
+        <data name="初級呪文">
+          <data name="スロット">無制限</data>
+          <data name="ショッキング・グラスプ">無制限</data>
+          <data name="プレスティディシジョン">無制限</data>
+          <data name="メイジ・ハンド">無制限</data>
+          <data name="レイ・オブ・フロスト">無制限</data>
+        </data>
+        <data name="１レベル呪文">
+          <data name="スロット" type="numberResource" currentValue="4">4</data>
+          <data name="シールド"></data>
+          <data name="スリープ"></data>
+          <data name="ディテクト・マジック"></data>
+          <data name="バーニング・ハンズ"></data>
+          <data name="マジック・ミサイル"></data>
+          <data name="メイジ・アーマー"></data>
+          <data name="アンシーン・サーヴァント"></data>
+          <data name="ヘリッシュ・リビューク"></data>
+          <data name="チャーム・パーソン"></data>
+        </data>
+        <data name="２レベル呪文">
+          <data name="スロット" type="numberResource" currentValue="2">2</data>
+          <data name="マジック・ウェポン"></data>
+          <data name="ロープ・トリック"></data>
+          <data name="スコーチング・レイ"></data>
+        </data>
       </data>
     </data>
   </data>
