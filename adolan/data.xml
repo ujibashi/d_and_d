@@ -66,10 +66,8 @@
         <data name="ヒット・ポイント" type="numberResource" currentValue="23">23</data>
         <data name="一時的ヒットポイント" type="numberResource" currentValue="23">23</data>
         <data name="ヒット・ダイス">1d6</data>
-        <data name="死亡セーブ">
-          <data name="死亡セーブ 成功" type="numberResource" currentValue="0">3</data>
-          <data name="死亡セーブ 失敗" type="numberResource" currentValue="0">3</data>
-        </data>
+        <data name="死亡セーブ 成功" type="numberResource" currentValue="0">3</data>
+        <data name="死亡セーブ 失敗" type="numberResource" currentValue="0">3</data>
         <data name="言語" type="note">共通語、エルフ語、ゴブリン語、ドワーフ語、竜語</data>
         <data name="習熟" type="note">クォータースタッフ、ショートソード、ショートボウ、スリング、ダーツ、ダガー、ライトクロスボウ、ロングソード、ロングボウ</data>
       </data>
@@ -80,17 +78,12 @@
           <data name="ダメージ／種別">1d6+2 刺突</data>
         </data>
         <data name="武器2">
-          <data name="名称">スタッフオブディフェンス</data>
+          <data name="名称">スタッフオブディフェンス(ガラスの杖)</data>
           <data name="攻撃ボーナス">+4</data>
           <data name="ダメージ／種別">1d6</data>
           <data name="ダメージ／種別">1d8殴打</data>
           <data name="魔法効果">AC+1</data>
-        </data>
-        <data name="武器3">
-          <data name="名称"></data>
-          <data name="攻撃ボーナス"></data>
-          <data name="ダメージ／種別"></data>
-          <data name="魔法効果"></data>
+          <data name="魔法効果" type="note">同調（24時間経過した場所、100フィート離れると効果切れる。小休憩費やす）</data>
         </data>
       </data>
       <data name="マジックアイテム">
