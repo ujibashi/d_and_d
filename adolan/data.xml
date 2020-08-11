@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character location.name="table" location.x="275" location.y="850" posZ="0" rotate="0" roll="345">
+  <data name="character">
+    <data name="image">
+      <data type="image" name="imageIdentifier">c741bb258764a927e3343ea9081aa528d04f206f731174f67efb4430e6c15d66</data>
+    </data>
+    <data name="common">
+        <data name="name">アドラン・ガラノデル</data>
+    </data>
+    <data name="detail">
+      <data name="基本">
+        <data name="種族">ハイ・エルフ</data>
+        <data name="クラス">ウィザード</data>
+        <data name="レベル">3</data>
+        <data name="習熟ボーナス">2</data>
+        <data name="属性">カオティックグッド</data>
+        <data name="背景">侍祭（じさい）</data>
+        <data name="プレイヤー">宇治橋</data>
+      </data>
+      <data name="能力値">
+        <data name="【筋力】">10</data>
+        <data name="【敏捷力】">15</data>
+        <data name="【耐久力】">14</data>
+        <data name="【知力】">16</data>
+        <data name="【判断力】">12</data>
+        <data name="【魅力】">8</data>
+      </data>
+      <data name="セーヴィング・スロー">
+        <data name="【筋】セーヴ">0</data>
+        <data name="【敏】セーヴ">+2</data>
+        <data name="【耐】セーヴ">+2</data>
+        <data name="【知】セーヴ">+5</data>
+        <data name="【判】セーヴ">+3</data>
+        <data name="【魅】セーヴ">-1</data>
+      </data>
+      <data name="抵抗／脆弱性／耐性">
+        <data name="フェイの血筋" type="note">魅了状態をもたらす効果に対するセービングスロー値に有利を得る</data>
+        <data name="フェイの血筋" type="note">魔法は君を眠らせることはできない</data>
+        <data name="タグ"></data>
+      </data>
+      <data name="技能">
+        <data name="〈威圧〉【魅力】">-1</data>
+        <data name="〈医術〉【判断力】">+1</data>
+        <data name="〈運動〉【筋力】">0</data>
+        <data name="〈隠密〉【敏捷力】">+2</data>
+        <data name="〈軽業〉【敏捷力】">+2</data>
+        <data name="〈看破〉【判断力】">+3</data>
+        <data name="〈芸能〉【魅力】">-1</data>
+        <data name="〈自然〉【知力】">+3</data>
+        <data name="〈宗教〉【知力】">+5</data>
+        <data name="〈生存〉【判断力】">+1</data>
+        <data name="〈説得〉【魅力】">-1</data>
+        <data name="〈捜査〉【知力】">+3</data>
+        <data name="〈知覚〉【判断力】">+3</data>
+        <data name="〈手先の早業〉【敏捷力】">_2</data>
+        <data name="〈動物使い〉【判断力】">+1</data>
+        <data name="〈ペテン〉【魅力】">-1</data>
+        <data name="〈魔法学〉【知力】">+5</data>
+        <data name="〈歴史〉【知力】★">+3</data>
+      </data>
+      <data name="行動">
+        <data name="イニシアチブ">+2</data>
+        <data name="受動〈知覚〉">13</data>
+        <data name="AC">13(12+1)</data>
+        <data name="移動速度">30’</data>
+        <data name="ヒット・ポイント" type="numberResource" currentValue="23">23</data>
+        <data name="一時的ヒットポイント" type="numberResource" currentValue="23">23</data>
+        <data name="ヒット・ダイス">1d6</data>
+        <data name="死亡セーブ 成功" type="numberResource" currentValue="0">3</data>
+        <data name="死亡セーブ 失敗" type="numberResource" currentValue="0">3</data>
+        <data name="言語" type="note">共通語、エルフ語、ゴブリン語、ドワーフ語、竜語</data>
+        <data name="習熟" type="note">クォータースタッフ、ショートソード、ショートボウ、スリング、ダーツ、ダガー、ライトクロスボウ、ロングソード、ロングボウ</data>
+      </data>
+      <data name="攻撃">
+        <data name="武器1">
+          <data name="名称">ショートソード</data>
+          <data name="攻撃ボーナス">+4</data>
+          <data name="ダメージ／種別">1d6+2 刺突</data>
+        </data>
+        <data name="武器2">
+          <data name="名称">スタッフオブディフェンス</data>
+          <data name="攻撃ボーナス">+4</data>
+          <data name="ダメージ／種別">1d6</data>
+          <data name="ダメージ／種別">1d8殴打</data>
+          <data name="魔法効果"></data>
+        </data>
+      </data>
+      <data name="装備">
+        <data name="保存食">9</data>
+        <data name="背負袋">1</data>
+        <data name="水袋">1</data>
+        <data name="呪文構成要素ポーチ">1</data>
+        <data name="呪文書">1</data>
+        <data name="インク瓶">1</data>
+        <data name="ペン">1</data>
+        <data name="羊皮紙">10</data>
+        <data name="小さなナイフ">1</data>
+        <data name="歴史伝承の書">1</data>
+        <data name="聖印">1</data>
+        <data name="祈祷書">1</data>
+        <data name="普通の服一揃い">1</data>
+        <data name="ロープ（10フィート）">1</data>
+        <data name="ロープ（40フィート）">1</data>
+        <data name="PP">0</data>
+        <data name="GP">8</data>
+        <data name="EP">0</data>
+        <data name="SP">34</data>
+        <data name="CP">0</data>
+      </data>
+      <data name="身体的容姿">
+        <data name="年齢">118</data>
+        <data name="身長">178cm</data>
+        <data name="体重">64kg</data>
+        <data name="目">青</data>
+        <data name="肌">白</data>
+        <data name="髪">青</data>
+      </data>
+      <data name="精神的特徴">
+        <data name="人格的特徴" type="note">私は学識を示すため、長い難しい言葉を使う。その一方で、寺院で長いこと暮らしてきており、外の世界の人々とやっていくのには慣れていない</data>
+        <data name="尊ぶもの" type="note">知識。力も成長も知識を通じて得られる。</data>
+        <data name="関わり深いもの" type="note">私が携えるこの書物は私のこれまでの生涯の業績を記録したものであり、どんな宝物庫にしまっても、十分ということはない。</data>
+        <data name="弱味" type="note">私の研究に新たな発見を付け加えることになる、歴史上の秘密があるならば、それを解明するのに手段は選ばない。</data>
+      </data>
+      <data name="特徴">
+        <data name="秘術回復" type="note">呪文に目を通すことで魔法のエネルギーを一部回復するというわざを学んだ。１日１回、小休憩を終えた時点で、君は消費済の呪文スロットを回復することができる。それらの呪文スロットの合計レベルは、ウィザードレベルの1/2（端数切り上げ）以下でなければならない。</data>
+        <data name="暗視" type="note">”薄暗い”光の中では自分から60フィートまでを”明るい”光の中であるかのように見通せる。また、同じ範囲の暗闇の中を”薄暗い”光の中であるかのように見通せる。暗闇のなかで物の色を見分けることはできず、ただ白黒の濃淡のみが見える。</data>
+        <data name="フェイの血筋" type="note">魅了状態をもたらす効果に対するセービングスローに有利を得る。また、魔法は君を眠らせることはできない</data>
+        <data name="トランス" type="note">エルフは睡眠を必要としない。かわりに深い瞑想に入り、半ば意識を保ったまま、１日４時間を過ごす。これにより君はヒューマンが８時間の睡眠によって得るのと同じ利益をえる。</data>
+        <data name="信仰あつき者の保護" type="note">オグマの侍祭である君は自身と信仰を同じくする人々からの尊敬を集めており、オグマのための宗教的儀式を執り行うことができる。君と君の冒険仲間は、オグマの”寺院、社、その他の施設”において、無料で治療や世話を受けられるが、呪文に必要な物質要素はすべて君が提供しなければならない。君と信仰を共有する人物はみな、君を助けて生活レベル”質素”相当の生活をさせてくれる（ただし、君だけだ。君の仲間は含まない）。また君はネヴァーウィンターにあるオグマの寺院と結びつきを持っており、そこに自分の部屋を持っている。ネヴァーウィンターにいるなら君は、そこの司祭たちを呼び出して何か危険を伴わない手伝いをさせることができる。）</data>
+      </data>
+    </data>
+  </data>
+  <chat-palette dicebot="DungeonsAndDoragons">▼能力値判定
+1d20+(({【筋力】}-10)/2) {name}の【筋力】判定！
+1d20+(({【敏捷力】}-10)/2) {name}の【敏捷力】判定！
+1d20+(({【耐久力】}-10)/2) {name}の【耐久力】判定！
+1d20+(({【知力】}-10)/2) {name}の【知力】判定！
+1d20+(({【判断力】}-10)/2) {name}の【判断力】判定！
+1d20+(({【魅力】}-10)/2) {name}の【魅力】判定！
+▼技能判定
+1d20+{〈威圧〉} {name}の〈威圧〉判定！
+1d20+{〈医術〉} {name}の〈医術〉判定！
+1d20+{〈運動〉} {name}の〈運動〉判定！
+1d20+{〈隠密〉} {name}の〈隠密〉判定！
+1d20+{〈軽業〉} {name}の〈軽業〉判定！
+1d20+{〈看破〉} {name}の〈看破〉判定！
+1d20+{〈芸能〉} {name}の〈芸能〉判定！
+1d20+{〈自然〉} {name}の〈自然〉判定！
+1d20+{〈宗教〉} {name}の〈宗教〉判定！
+1d20+{〈生存〉} {name}の〈生存〉判定！
+1d20+{〈説得〉} {name}の〈説得〉判定！
+1d20+{〈捜査〉} {name}の〈捜査〉判定！
+1d20+{〈知覚〉} {name}の〈知覚〉判定！
+1d20+{〈手先の早業〉} {name}の〈手先の早業〉判定！
+1d20+{〈動物使い〉} {name}の〈動物使い〉判定！
+1d20+{〈ペテン〉} {name}の〈ペテン〉判定！
+1d20+{〈魔法学〉} {name}の〈魔法学〉判定！
+1d20+{〈歴史〉} {name}の〈歴史〉判定！
+▼セーヴィング・スロー
+1d20+{【筋】セーヴ} {name}の【筋力】セーヴィング・スロー！
+1d20+{【敏】セーヴ} {name}の【敏捷力】セーヴィング・スロー！
+1d20+{【耐】セーヴ} {name}の【耐久力】セーヴィング・スロー！
+1d20+{【知】セーヴ} {name}の【知力】セーヴィング・スロー！
+1d20+{【判】セーヴ} {name}の【判断力】セーヴィング・スロー！
+1d20+{【魅】セーヴ} {name}の【魅力】セーヴィング・スロー！
+1d20&gt;=10 {name}の死亡セーヴィング・スロー！
+▼ヒットダイス
+{ヒット・ダイス}+(({【耐久力】}-10)/2) {name}のヒット・ダイス・スロー！
+▼戦闘
+1d20+(({【敏捷力】}-10)/2)  {name}のイニシアチブ判定！
+▼攻撃1
+1d20+{攻撃1修正}　{name}の{攻撃1}攻撃！
+{攻撃1ダメージ} {name}の{攻撃1}{攻撃1D種別}ダメージ！ {攻撃1追加効果}
+▼攻撃2
+1d20+{攻撃2修正}　{name}の{攻撃2}攻撃！
+{攻撃2ダメージ} {name}の{攻撃2}{攻撃2D種別}ダメージ！ {攻撃2追加効果}
+  </chat-palette>
+</character>
