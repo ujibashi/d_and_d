@@ -66,8 +66,10 @@
         <data name="ヒット・ポイント" type="numberResource" currentValue="23">23</data>
         <data name="一時的ヒットポイント" type="numberResource" currentValue="23">23</data>
         <data name="ヒット・ダイス">1d6</data>
-        <data name="死亡セーブ 成功" type="numberResource" currentValue="0">3</data>
-        <data name="死亡セーブ 失敗" type="numberResource" currentValue="0">3</data>
+        <data name="死亡セーブ">
+          <data name="死亡セーブ 成功" type="numberResource" currentValue="0">3</data>
+          <data name="死亡セーブ 失敗" type="numberResource" currentValue="0">3</data>
+        </data>
         <data name="言語" type="note">共通語、エルフ語、ゴブリン語、ドワーフ語、竜語</data>
         <data name="習熟" type="note">クォータースタッフ、ショートソード、ショートボウ、スリング、ダーツ、ダガー、ライトクロスボウ、ロングソード、ロングボウ</data>
       </data>
@@ -82,8 +84,27 @@
           <data name="攻撃ボーナス">+4</data>
           <data name="ダメージ／種別">1d6</data>
           <data name="ダメージ／種別">1d8殴打</data>
+          <data name="魔法効果">AC+1</data>
+        </data>
+        <data name="武器3">
+          <data name="名称"></data>
+          <data name="攻撃ボーナス"></data>
+          <data name="ダメージ／種別"></data>
           <data name="魔法効果"></data>
         </data>
+      </data>
+      <data name="マジックアイテム">
+          <data name="巻物">シールド</data>
+          <data name="巻物">ロケートオブジェクト</data>
+          <data name="巻物">スコーチングレイ</data>
+          <data name="巻物">チャームパーソン</data>
+          <data name="巻物">ファイアボール</data>
+          <data name="呪文書">ウォーディングウィンド</data>
+          <data name=""></data>
+          <data name=""></data>
+          <data name=""></data>
+          <data name=""></data>
+          <data name=""></data>
       </data>
       <data name="装備">
         <data name="保存食">9</data>
@@ -101,6 +122,14 @@
         <data name="普通の服一揃い">1</data>
         <data name="ロープ（10フィート）">1</data>
         <data name="ロープ（40フィート）">1</data>
+        <data name=""></data>
+        <data name=""></data>
+        <data name=""></data>
+        <data name=""></data>
+        <data name=""></data>
+        <data name=""></data>
+        <data name=""></data>
+        <data name=""></data>
         <data name="PP">0</data>
         <data name="GP">8</data>
         <data name="EP">0</data>
