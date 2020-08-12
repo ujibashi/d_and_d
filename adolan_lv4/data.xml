@@ -5,10 +5,11 @@
       <data type="image" name="imageIdentifier">c741bb258764a927e3343ea9081aa528d04f206f731174f67efb4430e6c15d66</data>
     </data>
     <data name="common">
-        <data name="name">アドラン・ガラノデル</data>
+        <data name="name">アドラン</data>
     </data>
     <data name="detail">
       <data name="基本">
+        <data name="フルネーム">アドラン・ガラノデル（月のささやき）</data>
         <data name="種族">ハイ・エルフ</data>
         <data name="クラス">ウィザード</data>
         <data name="レベル">4</data>
@@ -51,7 +52,7 @@
         <data name="○〈説得〉【魅力】">-1</data>
         <data name="●〈捜査〉【知力】">+4</data>
         <data name="●〈知覚〉【判断力】">+3</data>
-        <data name="○〈手先の早業〉【敏捷力】">_2</data>
+        <data name="○〈手先の早業〉【敏捷力】">-2</data>
         <data name="○〈動物使い〉【判断力】">+1</data>
         <data name="○〈ペテン〉【魅力】">-1</data>
         <data name="●〈魔法学〉【知力】">+6</data>
@@ -63,7 +64,7 @@
         <data name="AC">13(12+1)</data>
         <data name="移動速度">30’</data>
         <data name="ヒット・ポイント" type="numberResource" currentValue="23">23</data>
-        <data name="一時的ヒットポイント" type="numberResource" currentValue="23">23</data>
+        <data name="一時的ヒットポイント" type="numberResource" currentValue="0">23</data>
         <data name="ヒット・ダイス">1d6</data>
         <data name="死亡セーブ 成功" type="numberResource" currentValue="0">3</data>
         <data name="死亡セーブ 失敗" type="numberResource" currentValue="0">3</data>
@@ -71,16 +72,18 @@
         <data name="習熟" type="note">クォータースタッフ、ショートソード、ショートボウ、スリング、ダーツ、ダガー、ライトクロスボウ、ロングソード、ロングボウ</data>
       </data>
       <data name="攻撃">
-        <data name="武器1">
-          <data name="名称">ショートソード</data>
-          <data name="攻撃ボーナス">+4</data>
-          <data name="ダメージ／種別">1d6+2 刺突</data>
+        <data name="攻撃1">
+          <data name="攻撃1">ショートソード</data>
+          <data name="攻撃1修正">+4</data>
+          <data name="攻撃1ダメージ">1d6+2</data>
+          <data name="攻撃1D種別">刺突</data>
         </data>
-        <data name="武器2">
-          <data name="名称">スタッフオブディフェンス(ガラスの杖)</data>
-          <data name="攻撃ボーナス">+4</data>
-          <data name="ダメージ／種別">1d6</data>
-          <data name="ダメージ／種別">1d8殴打</data>
+        <data name="攻撃2">
+          <data name="攻撃2">スタッフオブディフェンス(ガラスの杖)</data>
+          <data name="攻撃2修正">+4</data>
+          <data name="攻撃2ダメージ">1d6</data>
+          <data name="攻撃2ダメージ">1d8</data>
+          <data name="攻撃2D種別">殴打</data>
           <data name="魔法効果">AC+1</data>
           <data name="魔法効果" type="note">同調（24時間経過した場所、100フィート離れると効果切れる。小休憩費やす）</data>
         </data>
@@ -156,7 +159,7 @@
       </data>
       <data name="呪文(力術の徒)">
         <data name="呪文発動能力値">
-          <data name="呪文発動能力値">16</data>
+          <data name="呪文発動能力値">18</data>
           <data name="呪文セーブ難易度">14</data>
           <data name="呪文攻撃ボーナス">6</data>
           <data name="準備呪文数（lv4）">8</data>
