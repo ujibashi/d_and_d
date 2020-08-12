@@ -61,7 +61,7 @@
       <data name="行動">
         <data name="イニシアチブ">+2</data>
         <data name="受動〈知覚〉">13</data>
-        <data name="AC">13(12+1)</data>
+        <data name="AC">13</data>
         <data name="移動速度">30’</data>
         <data name="ヒット・ポイント" type="numberResource" currentValue="23">23</data>
         <data name="一時的ヒットポイント" type="numberResource" currentValue="0">23</data>
@@ -84,8 +84,7 @@
           <data name="攻撃2ダメージ">1d6</data>
           <data name="攻撃2ダメージ">1d8</data>
           <data name="攻撃2D種別">殴打</data>
-          <data name="魔法効果">AC+1</data>
-          <data name="魔法効果" type="note">同調（24時間経過した場所、100フィート離れると効果切れる。小休憩費やす）</data>
+          <data name="魔法効果" type="note">AC+1, 同調 https://github.com/ujibashi/d_and_d/issues/3#issue-677354547</data>
         </data>
       </data>
       <data name="マジックアイテム">
@@ -165,7 +164,6 @@
           <data name="準備呪文数（lv4）">8</data>
         </data>
         <data name="初級呪文">
-          <data name="スロット">無制限</data>
           <data name="ショッキング・グラスプ">無制限</data>
           <data name="プレスティディシジョン">無制限</data>
           <data name="メイジ・ハンド">無制限</data>

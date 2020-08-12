@@ -14,7 +14,7 @@ zip化
 zip -r adoran.zip adoran_lvXX/
 ```
 
-adoran.zip をユドで読み込み
+`adoran.zip` をユドで読み込み
 
 **注意** ~いきなり `adoran.zip` を読み込んでも反映できない。`xml_アドラン_2020-08-10_1857.zip`を読み込んでから、`adoran.zip`を読み込むと読み込める(なぜかわからない)。~ ドラッグする方式だと読み込めてる気がする。
 
