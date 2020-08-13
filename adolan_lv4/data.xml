@@ -168,6 +168,7 @@
           <data name="プレスティディシジョン">無制限</data>
           <data name="メイジ・ハンド">無制限</data>
           <data name="レイ・オブ・フロスト">無制限</data>
+          <data name="メッセージ">無制限</data>
         </data>
         <data name="１レベル呪文">
           <data name="スロット" type="numberResource" currentValue="4">4</data>
@@ -186,6 +187,8 @@
           <data name="マジック・ウェポン"></data>
           <data name="ロープ・トリック"></data>
           <data name="スコーチング・レイ"></data>
+          <data name="スパイダー・クライム"></data>
+          <data name="エンラージ・リデュース"></data>
         </data>
       </data>
     </data>
